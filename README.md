@@ -35,3 +35,4 @@ This week I learned how to:
 
 Ranciah Valentine
 GitHub: https://github.com/ladyrancia
+Updated documentation for week 3 assignment.
