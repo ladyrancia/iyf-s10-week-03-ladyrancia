@@ -1,7 +1,7 @@
 # Week 03 - Tools & Workflow
-#R RANCIAH VALENTINE - Week 03 Project
+# RANCIAH VALENTINE - Week 03 Project
 
-Brief description of your project and what you learned this week.
+This project is part of my Week 03 assignment where I practiced using the command line and Git workflow to manage a development project.
 
 ## Live Demo
 
@@ -59,12 +59,12 @@ This week I learned how to:
 ## Contact
 
 - Email: ladyrancia@gmail.com
-- LinkedIn: [Ranciah valentine](https://linkedin.com/in/ranciahvalentine)
+- LinkedIn: [Ranciah valentine](https://www.linkedin.com/in/valentine-ranciah-79123835a/)
 - GitHub: [@ladyrancia](https://github.com/ladyrancia)
 
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
-This project is part of my Week 03 assignment where I practiced using the command line and Git workflow to manage a development project.
+
 
