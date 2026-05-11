@@ -5,7 +5,7 @@ This project is part of my Week 03 assignment where I practiced using the comman
 
 ## Live Demo
 
-[View Live Site](http://127.0.0.1:5500/index.html)
+[View Live Site](https://ladyrancia.github.io/iyf-s10-week-02-ladyrancia/)
 
 ## Screenshot
 
